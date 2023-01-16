@@ -1,0 +1,64 @@
+.fa-github {
+  margin-right: 10px;
+  transform: translateX(-4615%);
+}
+
+.fa-stack-overflow {
+  margin-right: 10px;
+  transform: translateX(-5450%);
+}
+
+.fa-user-astronaut {
+  margin-right: 10px;
+  transform: translateX(-5100%);
+}
+
+.fa-envelope {
+  margin-right: 10px;
+  transform: translateX(-3150%);
+}
+
+.link-fa-github {
+  margin-left: -710px;
+}
+
+.link-fa-stack-overflow {
+  margin-left: -650px;
+}
+
+.link-fa-astronaut {
+  margin-left: -710px;
+}
+
+.link-fa-mail {
+  margin-left: -500px;
+}
+
+html {
+  background-color: #23272a;
+}
+
+.div-whoami {
+  font-family: "Noto Sans", sans-serif;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+}
+
+p {
+  color: #ffffff;
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 50px;
+}
+
+.div-myskills {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.img-myskills-leader {
+  margin-left: 650px;
+}/*# sourceMappingURL=style.css.map */
