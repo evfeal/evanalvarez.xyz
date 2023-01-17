@@ -8,6 +8,11 @@
   transform: translateX(-5450%);
 }
 
+.fa-youtube {
+  margin-right: 10px;
+  transform: translateX(-3915%);
+}
+
 .fa-user-astronaut {
   margin-right: 10px;
   transform: translateX(-5100%);
@@ -26,12 +31,23 @@
   margin-left: -650px;
 }
 
+.link-fa-youtube {
+  margin-left: -705px;
+}
+
 .link-fa-astronaut {
   margin-left: -710px;
 }
 
 .link-fa-mail {
   margin-left: -500px;
+}
+
+.find-me-online {
+  color: #ffffff;
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 30px;
 }
 
 html {
@@ -60,5 +76,5 @@ p {
 }
 
 .img-myskills-leader {
-  margin-left: 650px;
+  margin-left: 700px;
 }
