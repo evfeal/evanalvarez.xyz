@@ -72,9 +72,15 @@ p {
 }
 
 .div-myskills {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
   font-family: "Noto Sans", sans-serif;
 }
 
-.img-myskills-leader {
-  margin-left: 700px;
+.div-myskills-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
