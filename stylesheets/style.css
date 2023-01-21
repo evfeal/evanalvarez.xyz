@@ -1,67 +1,52 @@
-.fa-github {
-  margin-right: 10px;
-}
-
-.fa-stack-overflow {
-  margin-right: 10px;
-}
-
-.fa-youtube {
-  margin-right: 10px;
-}
-
-.fa-user-astronaut {
-  margin-right: 10px;
-}
-
-.fa-envelope {
-  margin-right: 10px;
-}
-
-.find-me-online {
-  color: #ffffff;
-  text-align: center;
-  margin-top: -20px;
-  margin-bottom: 30px;
+html {
+  background-color: #282828;
+  margin: 0;
+  padding: 0;
+  overflow-x: none;
 }
 
 body {
+  margin: 0;
+  padding: 0;
+  overflow-x: none;
+}
+
+#flex-frame {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  width: 100vw;
   justify-content: center;
 }
 
-html {
-  background-color: #23272a;
-}
-
-.div-whoami {
-  font-family: "Noto Sans", sans-serif;
+#flex-introduction,
+#flex-programs,
+#flex-aboutme {
+  display: flex;
+  flex-direction: column;
 }
 
 h1 {
-  color: #ffffff;
   font-size: 48px;
-  text-align: center;
+  color: #689d6a;
+  align-self: center;
+}
+
+h2 {
+  font-size: 28px;
+  color: #8ec07c;
+  margin: 0;
+  align-self: center;
+}
+
+h3 {
+  color: #a89984;
 }
 
 p {
-  color: #ffffff;
-  text-align: center;
-  margin-top: -20px;
-  margin-bottom: 50px;
+  color: white;
+  font-size: 15px;
 }
 
-.div-myskills {
-  display: flex;
-  width: 100%;
-  flex-direction: column;
-  justify-content: center;
-  font-family: "Noto Sans", sans-serif;
+a {
+  text-decoration: none;
 }
-
-.div-myskills-icons {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}/*# sourceMappingURL=style.css.map */
