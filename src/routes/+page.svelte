@@ -51,17 +51,17 @@
 
 	h1 {
 		align-self: center;
-		font-size: 2.5vw;
+		font-size: 44px;
 	}
 
 	h3 {
 		align-self: center;
 		margin-top: 1.5vw;
-		font-size: 1.2vw;
+		font-size: 26px;
 		color: #808080;
 	}
 
 	p {
-		font-size: 1.1vw;
+		font-size: 18px;
 	}
 </style>
