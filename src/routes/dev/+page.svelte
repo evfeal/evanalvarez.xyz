@@ -13,14 +13,16 @@
 
 <div class="flex-frame">
   <div id="flex-github">
-    <iframe src="https://github-readme-stats.vercel.app/api?username=evfeal&show_icons=true&theme=gruvbox"
-            frameborder="0" 
-            marginheight="0" 
-            marginwidth="0" 
-            width="500vh" 
-            height="200vh" 
-            scrolling="auto">
-    </iframe>
+    <div class="iframe-container">
+      <iframe src="https://github-readme-stats.vercel.app/api?username=evfeal&show_icons=true&theme=gruvbox"
+              frameborder="0" 
+              marginheight="0" 
+              marginwidth="0" 
+              width="500vh" 
+              height="200vh" 
+              scrolling="auto">
+      </iframe>
+    </div>
     <div class="card w-96 bg-base-100 shadow-xl">
       <div class="card-body">
         <h2 class="card-title">GitHub</h2>
@@ -65,8 +67,14 @@
   .card {
       margin-left: 5vw;
     }
+  
+  .iframe-container {
+      overflow: hidden;
+      position: relative;
 
-  iframe {
+    }
+
+  .iframe-container iframe {
       align-self: right;
       margin-top: 2vh;
       margin-left: 5vw;
