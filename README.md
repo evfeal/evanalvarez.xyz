@@ -1,4 +1,4 @@
 # evanalvarez.xyz
-My personal website, written in css and html
+This is my personal website, it's written in svelte.js, and the UI library is DaisyUI
 
-as of right now this is just the initial commit, its gonna get better, i promise (:
+it's not finished right now, but this is the rough start!
