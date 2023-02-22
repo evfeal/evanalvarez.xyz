@@ -58,7 +58,7 @@
     font-size: 4.5vh;
     overflow: hidden;
     white-space: nowrap;
-    animation: typing 0.6s steps(15, end) forwards;
+    animation: typing 1s steps(25, end) forwards;
   }
 
   @keyframes typing {
