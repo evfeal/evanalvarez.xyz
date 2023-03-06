@@ -1,4 +1,5 @@
 <script lang="ts">
+  import "$lib/global.css";
 </script>
 
 <div class="navbar bg-base-300">

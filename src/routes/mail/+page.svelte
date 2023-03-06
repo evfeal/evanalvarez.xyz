@@ -1,3 +1,7 @@
+<script lang="ts">
+  import "$lib/global.css";
+</script>
+
 <div class="navbar bg-base-300">
   <div class="flex-1">
     <a class="btn btn-ghost normal-case text-xl" href="/">Evan Alvarez</a>
