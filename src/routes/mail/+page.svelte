@@ -9,6 +9,7 @@
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1">
       <li><a class="btn btn-ghost normal-case" href="/">/home</a></li>
+      <li><a class="btn btn-ghost normal-case" href="/rice">/rices</a></li>
       <li><a class="btn btn-ghost normal-case" href="/dev">/dev</a></li>
       <li><a class="btn btn-ghost normal-case" href="/mail">/mail</a></li>
     </ul>
@@ -45,11 +46,6 @@
     flex-direction: column;
   }
 
-  h1 {
-    align-self: center;
-    font-size: 6vh;
-  }
-
   h2 {
     align-self: center;
     text-align: center;
@@ -68,13 +64,6 @@
     to {
       width: 100%;
     }
-  }
-
-  h3 {
-    align-self: center;
-    margin-top: 1.5vw;
-    font-size: 3vh;
-    color: #808080;
   }
 
   p {
