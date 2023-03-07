@@ -27,7 +27,7 @@
 
       <div class="hero min-h-50% bg-base-100">
         <div class="hero-content flex-col lg:flex-row">
-          <img src="../rice/rice-ibrahim.png" class="max-w-sm rounded-lg shadow-2xl rice-images" />
+          <img src="/static/rice-ibrahim.png" class="max-w-sm rounded-lg shadow-2xl rice-images" />
         <div>
           <h1 class="text-5xl font-bold">Ibrahim (Sway)</h1>
           <p class="py-6">This is my first decent rice, it is on the sway window manager <br> (wayland), and focuses on appearance over minimalism.</p>
@@ -88,7 +88,7 @@
     margin-top: 1.5vw;
     font-size: 4.5vh;
     white-space: nowrap;
-    animation: typing 1.1s steps(25, end) forwards;
+    animation: typing 1.5s steps(35, end) forwards;
     overflow: hidden;
   }
 
