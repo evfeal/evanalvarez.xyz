@@ -88,7 +88,7 @@
     margin-top: 1.5vw;
     font-size: 4.5vh;
     white-space: nowrap;
-    animation: typing 1.7s steps(40, end) forwards;
+    animation: typing 1.6s steps(38, end) forwards;
     overflow: hidden;
   }
 
