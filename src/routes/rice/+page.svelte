@@ -27,7 +27,7 @@
 
       <div class="hero min-h-50% bg-base-100">
         <div class="hero-content flex-col lg:flex-row">
-          <img src="src/routes/rice/rice-ibrahim.png" class="max-w-sm rounded-lg shadow-2xl rice-images" />
+          <img src="../src/routes/rice/rice-ibrahim.png" class="max-w-sm rounded-lg shadow-2xl rice-images" />
         <div>
           <h1 class="text-5xl font-bold">Ibrahim (Sway)</h1>
           <p class="py-6">This is my first decent rice, it is on the sway window manager <br> (wayland), and focuses on appearance over minimalism.</p>
