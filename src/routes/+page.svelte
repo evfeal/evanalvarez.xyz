@@ -9,7 +9,6 @@
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1">
       <li><a class="btn btn-ghost normal-case" href="/">/home</a></li>
-      <li><a class="btn btn-ghost normal-case" href="/rice">/rices</a></li>
       <li><a class="btn btn-ghost normal-case" href="/dev">/dev</a></li>
       <li><a class="btn btn-ghost normal-case" href="/mail">/mail</a></li>
     </ul>
